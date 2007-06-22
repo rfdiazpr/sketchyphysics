@@ -12,6 +12,5 @@ Example uses hinge joint to make a door
 == Misc ==
 Blah blah blah.
 
-[http://sketchyphysics.googlecode.com/files/door.avi http://sketchyphysics.googlecode.com/files/door.avi%20-%2000009.jpg]
-
+[http://sketchyphysics.googlecode.com/files/door.avi http://sketchyphysics.googlecode.com/files/drag.avi%20-%2000004.jpg]
 
