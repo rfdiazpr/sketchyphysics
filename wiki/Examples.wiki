@@ -1,5 +1,5 @@
-#summary One-sentence summary of this page.
-SketchyPhysics examples
+#summary SketchyPhysics examples
+
 
 = Introduction =
 Here are examples both video and .skp
@@ -8,7 +8,6 @@ Here are examples both video and .skp
 Example uses hinge joint to make a door
 
 [http://sketchyphysics.googlecode.com/files/door.avi http://sketchyphysics.googlecode.com/files/door.avi%20-%2000009.jpg]
-
 
 
 
