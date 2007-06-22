@@ -6,7 +6,8 @@ Here are examples both video and .skp
 
 = Video examples =
 How to make a door
-[http://code.google.com/ http://sketchyphysics.googlecode.com/files/door.avi%20-%2000009.jpg]
+[http://sketchyphysics.googlecode.com/files/door.avi http://sketchyphysics.googlecode.com/files/door.avi%20-%2000009.jpg]
+
 
 
 
