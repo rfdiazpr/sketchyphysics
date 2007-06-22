@@ -9,7 +9,9 @@ Example uses hinge joint to make a door
 
 [http://sketchyphysics.googlecode.com/files/door.avi http://sketchyphysics.googlecode.com/files/door.avi%20-%2000009.jpg]
 
+== Misc ==
+Blah blah blah.
 
-
+[http://sketchyphysics.googlecode.com/files/door.avi http://sketchyphysics.googlecode.com/files/door.avi%20-%2000009.jpg]
 
 
