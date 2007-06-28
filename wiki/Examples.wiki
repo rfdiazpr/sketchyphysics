@@ -1,14 +1,22 @@
 #summary SketchyPhysics examples
 
+=SketchyPhysics examples=
+All of the demos in a single zip.
+<link to examples.zip> 
 
-= Introduction =
-Examples for SketchyPhysics.
-[All examples .zipped]
+=Individual and user Submitted Examples=
 
-=Simple=
-=All primitives=
-=Compound Objects=
-=Simple Joints=
-=Complex joints=
-=Fun Stuff=
+==Simple==
+
+==All primitives==
+
+==Compound Objects==
+
+==Simple Joints==
+
+==Complex joints==
+
+==Fun Stuff==
+
+
 
