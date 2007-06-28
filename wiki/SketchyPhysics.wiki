@@ -29,6 +29,7 @@ http://sketchyphysics.googlecode.com/files/SketchyPhysicsJoints-Toolbar1.png
 ==Object attributes==
 
 ==Joints==
+http://sketchyphysics.googlecode.com/files/SketchySolids-Toolbar1.png
 
 ==Joint connector==
 
@@ -38,8 +39,9 @@ http://sketchyphysics.googlecode.com/files/SketchyPhysicsJoints-Toolbar1.png
 
 ==Grouping joints==
 
+=Bugs and known issues=
 
-
+=Future work=
 
 
 
