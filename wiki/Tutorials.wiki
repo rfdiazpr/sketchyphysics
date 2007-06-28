@@ -1,5 +1,3 @@
-#summary One-sentence summary of this page.
-
 =Video Tutorials=
 == How to make a door ==
 Example uses hinge joint to make a door
