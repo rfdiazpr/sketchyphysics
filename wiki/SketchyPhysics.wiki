@@ -3,7 +3,11 @@
 = Introduction =
 
 [LatestVersion]
+
 [Examples]
+
+[Tutorials]
+
 
 = Installation =
 
@@ -42,7 +46,6 @@ http://sketchyphysics.googlecode.com/files/SketchySolids-Toolbar1.png
 =Bugs and known issues=
 
 =Future work=
-
 
 
 
