@@ -1,11 +1,7 @@
 Here you can find the latest version of Sketchy Physics
 
-<link to latest>
+==Jun 28 2007==
+http://sketchyphysics.googlecode.com/files/SketchyPhysics-Jun28-07.zip
 
-Release Notes
-
-<link to previous version>
-
-Release notes.
-
-etc.
+==Release Notes==
+First public release. See [http://code.google.com/p/sketchyphysics/ docs] for instructions.
