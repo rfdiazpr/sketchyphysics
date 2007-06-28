@@ -4,6 +4,15 @@
 All of the demos in a single zip.
 <link to examples.zip> 
 
+=YouTube videos=
+http://www.youtube.com/watch?v=ilJWmHth3pY
+
+http://www.youtube.com/watch?v=xk5Lu3iziDA
+
+http://www.youtube.com/watch?v=PgpSwHLXGIg
+
+[http://www.youtube.com/results?search_query=sketchyphysics&search= <More>]
+
 =Individual and user Submitted Examples=
 
 ==Simple==
@@ -17,6 +26,7 @@ All of the demos in a single zip.
 ==Complex joints==
 
 ==Fun Stuff==
+
 
 
 
