@@ -3,7 +3,16 @@
 
 = Introduction =
 Examples for SketchyPhysics.
+[All examples .zipped]
 
+=Simple=
+=All primitives=
+=Compound Objects=
+=Simple Joints=
+=Complex joints=
+=Fun Stuff=
+
+=Video Tutorials=
 == How to make a door ==
 Example uses hinge joint to make a door
 
