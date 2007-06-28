@@ -1,7 +1,7 @@
 #summary SketchyPhysics examples
 
 =SketchyPhysics examples=
-All of the demos in a single zip.
+All of the basic examples in a single zip.
 <link to examples.zip> 
 
 =YouTube videos=
@@ -13,7 +13,7 @@ http://www.youtube.com/watch?v=PgpSwHLXGIg
 
 [http://www.youtube.com/results?search_query=sketchyphysics&search= <More>]
 
-=Individual and user Submitted Examples=
+=User submitted examples=
 
 ==Simple==
 
@@ -26,7 +26,6 @@ http://www.youtube.com/watch?v=PgpSwHLXGIg
 ==Complex joints==
 
 ==Fun Stuff==
-
 
 
 
