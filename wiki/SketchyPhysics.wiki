@@ -3,10 +3,21 @@
 = Introduction =
 
 [LatestVersion]
+[Examples]
 
 = Installation =
 
 = Basics =
+When you run Sketchup you should see several new toolbars. If you don't see the toolbars go to View->Tool Bars and turn on all the Sketchy ones.
+
+http://sketchyphysics.googlecode.com/files/SketchPhysics-Toolbar1.jpg
+
+Load one of the examples and press the play button on the toolbar.
+  * While the scene is playing you can use the mouse to drag objects around the scene. 
+  * Press and hold left mouse button to drag horizontally. Hold CTRL to lift up and down.
+ 
+
+
 ==Load and run one of the examples==
 ==Dragging==
 
@@ -25,6 +36,11 @@
 ==Compound objects==
 
 ==Grouping joints==
+
+
+
+
+
 
 
 
