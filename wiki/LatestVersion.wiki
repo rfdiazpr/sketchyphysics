@@ -4,9 +4,8 @@ Here you can find the latest version of Sketchy Physics
 http://sketchyphysics.googlecode.com/files/SketchyPhysics-July1-07.zip
 
 ===Release Notes===
-Fixed bug in box prim.
-Fixed some other internal bugs.
-Added some ground work for a attribute editor (nothing showing yet)
+  * Fixed box prim collision
+  * Added updated UI from Jim.
 
 ==Jun 28 2007==
 http://sketchyphysics.googlecode.com/files/SketchyPhysics-Jun28-07.zip
