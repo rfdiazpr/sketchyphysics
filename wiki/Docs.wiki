@@ -1,3 +1,6 @@
+
+[http://sketchyphysics.googlecode.com/files/SketchyPhysics%20-%20Quick%20Reference%20Card.pdf Quick Reference Card]
+
 = Basics =
 When you run Sketchup you should see several new tool bars. 
 If you don't see the toolbars go to View->Tool Bars and turn on all the Sketchy ones.
