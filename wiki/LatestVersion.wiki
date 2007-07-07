@@ -1,5 +1,18 @@
 Here you can find the latest version of Sketchy Physics
 
+= Installation =
+ Unzip into your Sketchup plugins directory.  Directory should look like:
+{{{
+ Sketchup
+  Plugins
+    SketchyPhysics.rb
+    Win32.so
+    SketchyPhysics<dir>
+      etc...
+}}}
+
+[http://code.google.com/p/sketchyphysics/ Docs]
+
 ==July 1 2007==
 http://sketchyphysics.googlecode.com/files/SketchyPhysics-July1-07.zip
 
