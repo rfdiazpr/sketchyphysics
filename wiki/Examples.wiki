@@ -17,6 +17,11 @@ All of the basic examples in a single zip.
 
 ==User submitted examples==
 
+=3D Warehouse=
+
+[http://sketchup.google.com/3dwarehouse/search?q=sketchyphysics&btnG=Search&styp=m Search]
+
+
 =YouTube videos=
 http://www.youtube.com/watch?v=ilJWmHth3pY
 
@@ -25,4 +30,3 @@ http://www.youtube.com/watch?v=xk5Lu3iziDA
 http://www.youtube.com/watch?v=PgpSwHLXGIg
 
 [http://www.youtube.com/results?search_query=sketchyphysics&search= <More>]
-
