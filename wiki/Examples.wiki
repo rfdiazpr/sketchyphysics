@@ -2,7 +2,7 @@
 
 =SketchyPhysics examples=
 All of the basic examples in a single zip.
-[SketchyPhysics-Examples-Jul7-07.zip]
+[http://sketchyphysics.googlecode.com/files/SketchyPhysics-Examples-Jul7-07.zip]
 
 ==Simple==
 
