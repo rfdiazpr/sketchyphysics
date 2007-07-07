@@ -19,4 +19,4 @@ Here you can find the latest version of Sketchy Physics.
 http://sketchyphysics.googlecode.com/files/SketchyPhysics-Jul7-07.zip
 
 ===Release Notes===
-First public release. See [http://code.google.com/p/sketchyphysics/Docs docs] for instructions.
+First public release. See [Docs] for instructions.
