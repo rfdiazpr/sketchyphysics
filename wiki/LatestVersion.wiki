@@ -11,8 +11,6 @@ Here you can find the latest version of Sketchy Physics
       etc...
 }}}
 
-[http://code.google.com/p/sketchyphysics/ Docs]
-
 ==July 1 2007==
 http://sketchyphysics.googlecode.com/files/SketchyPhysics-July1-07.zip
 
