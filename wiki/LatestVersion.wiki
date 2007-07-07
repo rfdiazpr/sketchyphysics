@@ -1,4 +1,8 @@
-Here you can find the latest version of Sketchy Physics
+Here you can find the latest version of Sketchy Physics.
+
+[http://code.google.com/p/sketchyphysics/ Home page]
+
+[Docs]
 
 = Installation =
  Unzip into your Sketchup plugins directory.  Directory should look like:
