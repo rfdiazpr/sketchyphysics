@@ -2,7 +2,8 @@
 
 =SketchyPhysics examples=
 All of the basic examples in a single zip.
-<link to examples.zip> 
+
+[http://sketchyphysics.googlecode.com/files/SketchyPhyisics-Examples-Jul7-07.zip]
 
 
 ==Simple==
@@ -27,6 +28,5 @@ http://www.youtube.com/watch?v=xk5Lu3iziDA
 http://www.youtube.com/watch?v=PgpSwHLXGIg
 
 [http://www.youtube.com/results?search_query=sketchyphysics&search= <More>]
-
 
 
