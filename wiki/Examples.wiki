@@ -4,16 +4,6 @@
 All of the basic examples in a single zip.
 <link to examples.zip> 
 
-=YouTube videos=
-http://www.youtube.com/watch?v=ilJWmHth3pY
-
-http://www.youtube.com/watch?v=xk5Lu3iziDA
-
-http://www.youtube.com/watch?v=PgpSwHLXGIg
-
-[http://www.youtube.com/results?search_query=sketchyphysics&search= <More>]
-
-=User submitted examples=
 
 ==Simple==
 
@@ -26,6 +16,17 @@ http://www.youtube.com/watch?v=PgpSwHLXGIg
 ==Complex joints==
 
 ==Fun Stuff==
+
+==User submitted examples==
+
+=YouTube videos=
+http://www.youtube.com/watch?v=ilJWmHth3pY
+
+http://www.youtube.com/watch?v=xk5Lu3iziDA
+
+http://www.youtube.com/watch?v=PgpSwHLXGIg
+
+[http://www.youtube.com/results?search_query=sketchyphysics&search= <More>]
 
 
 
