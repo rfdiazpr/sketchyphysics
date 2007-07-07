@@ -2,6 +2,7 @@
 
 =SketchyPhysics examples=
 All of the basic examples in a single zip.
+[SketchyPhysics-Examples-Jul7-07.zip]
 
 ==Simple==
 
@@ -20,6 +21,7 @@ All of the basic examples in a single zip.
 =3D Warehouse=
 
 [http://sketchup.google.com/3dwarehouse/search?q=sketchyphysics&btnG=Search&styp=m Search]
+Note: Anything from before Jul 07 is from an older version and may not work.
 
 
 =YouTube videos=
