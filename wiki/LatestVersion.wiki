@@ -20,3 +20,8 @@ http://sketchyphysics.googlecode.com/files/SketchyPhysics-Jul7-07.zip
 
 ===Release Notes===
 First public release. See [Docs] for instructions.
+
+==Examples==
+All of the basic examples in a single zip.
+
+http://sketchyphysics.googlecode.com/files/SketchyPhysics-Examples-Jul7-07.zip
