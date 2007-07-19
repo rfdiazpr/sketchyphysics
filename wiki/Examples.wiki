@@ -14,7 +14,7 @@ http://sketchup.google.com/3dwarehouse/details?mid=4ceb45eacc729c5ea611269c93d91
 http://sketchup.google.com/3dwarehouse/details?mid=fefb0ae5c3399f426e49a9db8e76daf1
 http://sketchup.google.com/3dwarehouse/details?mid=d972bcb8198c5770ac03d4486f1f7520
 
-[http://sketchup.google.com/3dwarehouse/search?q=sketchyphysics&btnG=Search&styp=m Search for more]
+[http://sketchup.google.com/3dwarehouse/search?q=sketchyphysics&styp=m&scoring=d Search for more]
 
 *NOTE*: Anything from before Jul 07 is from an older version and may not work.
 
@@ -29,5 +29,4 @@ http://www.youtube.com/watch?v=PgpSwHLXGIg
 http://www.youtube.com/watch?v=YQquRx7rmkk
 
 [http://www.youtube.com/results?search_query=sketchyphysics&search= <More>]
-
 
