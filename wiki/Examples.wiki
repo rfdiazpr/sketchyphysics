@@ -5,24 +5,18 @@ All of the basic examples in a single zip.
 
 [http://sketchyphysics.googlecode.com/files/SketchyPhysics-Examples-Jul7-07.zip]
 
-==Simple==
+=User created examples=
 
-==All primitives==
+==3D Warehouse==
+There are some really good user generated demos popping up on 3d warehouse. Here are a few  good ones!
+http://sketchup.google.com/3dwarehouse/details?mid=f27b91714ea5752a87d6d7c29947ae22
+http://sketchup.google.com/3dwarehouse/details?mid=4ceb45eacc729c5ea611269c93d910
+http://sketchup.google.com/3dwarehouse/details?mid=fefb0ae5c3399f426e49a9db8e76daf1
+http://sketchup.google.com/3dwarehouse/details?mid=d972bcb8198c5770ac03d4486f1f7520
 
-==Compound Objects==
+[http://sketchup.google.com/3dwarehouse/search?q=sketchyphysics&btnG=Search&styp=m Search for more]
 
-==Simple Joints==
-
-==Complex joints==
-
-==Fun Stuff==
-
-==User submitted examples==
-
-=3D Warehouse=
-
-[http://sketchup.google.com/3dwarehouse/search?q=sketchyphysics&btnG=Search&styp=m Search]
-Note: Anything from before Jul 07 is from an older version and may not work.
+*NOTE*: Anything from before Jul 07 is from an older version and may not work.
 
 
 =YouTube videos=
@@ -32,4 +26,8 @@ http://www.youtube.com/watch?v=xk5Lu3iziDA
 
 http://www.youtube.com/watch?v=PgpSwHLXGIg
 
+http://www.youtube.com/watch?v=YQquRx7rmkk
+
 [http://www.youtube.com/results?search_query=sketchyphysics&search= <More>]
+
+
