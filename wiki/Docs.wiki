@@ -128,20 +128,20 @@ You can connect connect a object to multiple joints (rarely done) by selecting t
 ==Joint attributes==
 If you right click a joint you can edit its joint settings. Each type of joint has its own  settings.
 
-Hinge
-Min=Minimum joint angle (0 to -360)
-Max=Max joint angle (0 to 30)
-Acceleration=The joint will act like a motor. Positive and negative values will work.
-Dampening=Acts like a brake to keep the motor from spinning out of control. 
+===Hinge===
+  * Min=Minimum joint angle (0 to -360)
+  * Max=Max joint angle (0 to 30)
+  * Acceleration=The joint will act like a motor. Positive and negative values will work.
+  * Dampening=Acts like a brake to keep the motor from spinning out of control. 
 
-Slider
-Min=Min slide distance in inches. Should be negative
-Max=Max slide distance in inches. Should be positive
+===Slider===
+  * Min=Min slide distance in inches. Should be negative
+  * Max=Max slide distance in inches. Should be positive
 
-Spring
-Min/Max=same as slider.
-Accel=Adjust how hard the spring will try to pull the object back.
-Damp=Adjust how fast spring will try to pull the object back.
+===Spring===
+  * Min/Max=same as slider.
+  * Accel=Adjust how hard the spring will try to pull the object back.
+  * Damp=Adjust how fast spring will try to pull the object back.
 
 
 ==Compound objects==
