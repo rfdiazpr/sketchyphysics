@@ -13,7 +13,7 @@ Basically you just unzip the file into your Sketchup/Plugins directory. If you d
   # Go to C:\Program Files\Google\Google Sketchup 6\Plugins
   # Hit Enter
 
-If you have done everything correctly you directories should look like this.
+If you have done everything correctly the directories should look like this.
 {{{
  Google Sketchup 6
   Plugins
