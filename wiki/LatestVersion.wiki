@@ -5,15 +5,27 @@ Here you can find the latest version of Sketchy Physics.
 [Docs]
 
 = Installation =
- Unzip into your Sketchup plugins directory.  Directory should look like:
+Basically you just unzip the file into your Sketchup/Plugins directory. If you don't know what that means.... 
+
+==Simplified Installation==
+  # Open the SketchyPhysics ZIP file in WinZip. Don't even bother looking at all of the files in there because it will only confuse you.
+  # Click the "Actions" toolbar and select "Extract" from the dropdown menu.
+  # Go to C:\Program Files\Google\Google SketchUp 6\Plugins
+  # Hit Enter
+
+If you have done everything correctly you directories should look like this.
 {{{
- Sketchup
+ Google Sketchup 6
   Plugins
     SketchyPhysics.rb
     Win32.so
     SketchyPhysics<dir>
-      etc...
+      SketchyPhysicsTool.rb
+      PrimsTool.rb
+      <etc>
 }}}
+
+Consult the [Docs] for further directions.
 
 ==July 7 2007==
 http://sketchyphysics.googlecode.com/files/SketchyPhysics-July7-07.zip
@@ -25,3 +37,4 @@ First public release. See [Docs] for instructions.
 All of the basic examples in a single zip.
 
 http://sketchyphysics.googlecode.com/files/SketchyPhysics-Examples-Jul7-07.zip
+
