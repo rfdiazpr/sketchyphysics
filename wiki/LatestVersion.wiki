@@ -10,7 +10,7 @@ Basically you just unzip the file into your Sketchup/Plugins directory. If you d
 ==Simplified Installation==
   # Open the SketchyPhysics ZIP file in WinZip. Don't even bother looking at all of the files in there because it will only confuse you.
   # Click the "Actions" toolbar and select "Extract" from the dropdown menu.
-  # Go to C:\Program Files\Google\Google SketchUp 6\Plugins
+  # Go to C:\Program Files\Google\Google Sketchup 6\Plugins
   # Hit Enter
 
 If you have done everything correctly you directories should look like this.
@@ -37,4 +37,3 @@ First public release. See [Docs] for instructions.
 All of the basic examples in a single zip.
 
 http://sketchyphysics.googlecode.com/files/SketchyPhysics-Examples-Jul7-07.zip
-
