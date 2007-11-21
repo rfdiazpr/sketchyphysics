@@ -24,6 +24,18 @@ If you have done everything correctly the directories should look like this.
       PrimsTool.rb
       <etc>
 }}}
+On my machine Sketchup is installed in C:\Program Files\Google\Google Sketchup 6\ 
+So my directories look like this:
+{{{
+c:\Program Files\Google\Google Sketchup 6
+c:\Program Files\Google\Google Sketchup 6\Plugins
+c:\Program Files\Google\Google Sketchup 6\Plugins\SketchyPhysics.rb
+c:\Program Files\Google\Google Sketchup 6\Plugins\Win32.so
+c:\Program Files\Google\Google Sketchup 6\Plugins\SketchyPhysics\
+c:\Program Files\Google\Google Sketchup 6\Plugins\SketchyPhysics\SketchyPhysicsTool.rb
+c:\Program Files\Google\Google Sketchup 6\Plugins\SketchyPhysics\PrimsTool.rb
+<etc>
+}}}
 
 Consult the [Docs] for further directions.
 
