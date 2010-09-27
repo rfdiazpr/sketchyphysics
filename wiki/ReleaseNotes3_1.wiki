@@ -8,3 +8,9 @@ While this version was over a year in the making it is largely the same as SP3x.
 = Changes since SketchyPhysics3RC1 =
 
  * Sound support. Wav files can be embedded in models for playback at runtime.
+
+= Bugs fixed since SketchyPhysics3RC1 =
+
+ * Fixed bug where operations (like create solids) were slow when the outliner was open.
+ * Fixed bug with groups that only contained one group. May break existing models but oh well...
+ * Fixed FOV not being saved by at simulation start.
