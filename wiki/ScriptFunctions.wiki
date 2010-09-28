@@ -1,4 +1,19 @@
 #summary Generated list of all scripting functions.
+=Events=
+ * ontouching
+ * onuntouch
+ * ontouch
+ * onstart
+ * onend
+ * ontick
+ * onpreframe
+ * onpostframe
+ * onclick
+ * onunclick
+ * ondrag
+
+
+=Script functions=
 
  * slider(sname,defaultValue=0.5,min=0.0,max=1.0)
  * setVar(name,value)
@@ -16,7 +31,6 @@
  * logLine(str)
  * findBody(grp)
  * createJoint(parent,child,type="ball",min=0,max=0,accel=0,damp=0,breakingForce=0)
- * createBody(grp,bodyPTR)
  * camera()
  * getCurveLength(curveVerts)
  * findCurve(name)
