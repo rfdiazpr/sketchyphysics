@@ -1,13 +1,62 @@
 #summary Generated list of all scripting functions.
 =Events=
  * ontouch
+{{{
+#Event is triggered when body is touched by another.
+ontouch{|toucher,position,speed|
+   logLine("I was touched")
+}
+}}}
+
  * ontouching
+{{{
+#Event is triggered every tick as long as bodies are in contact.
+ontouching{|toucher|
+   logLine("Still touching")
+}
+}}}
  * onuntouch
+{{{
+#Event is triggered when bodies stop touching.
+onuntouch{|toucher|
+   logLine("Done touching")
+}
+}}}
  * onstart
+{{{
+#Event is triggered once at the beginning of the simulation.
+onstart{
+   logLine("Start")
+}
+}}}
  * onend
+{{{
+#Event is triggered once at the end of the simulation.
+onstart{
+   logLine("End")
+}
+}}}
  * onpreframe
+{{{
+#Event is called at the beginning of each frame.
+onpreframe{
+   logLine("Preframe")
+}
+}}}
  * ontick
+{{{
+#Event is once per frame just before the physics simulation step.
+ontick{
+   logLine("Tick")
+}
+}}}
  * onpostframe
+{{{
+#Event is called at the end of each frame after the physics simulation step
+onpreframe{
+   logLine("Postframe")
+}
+}}}
  * onclick
  * ondrag
  * onunclick
