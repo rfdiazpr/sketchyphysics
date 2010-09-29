@@ -90,28 +90,28 @@ ondrag{
  * getSetVar(name,value=0)
 
 ==Inputs==
- * key(k)
+ * key(name)
  * joy(name)
  * joybutton(name)
  * slider(sname,defaultValue=0.5,min=0.0,max=1.0)
 
 
 ==Physics body==
- * push(kick=nil)
- * magnetic=(v)
- * solid=(v)
- * destroy()
- * nocollision=(v)
+ * magnetic=true/false
+ * nocollision=true/false
+ * solid=true/false
+ * push(direction)
  * getVelocity()
  * setVelocity(velocity)
  * setLinearDamping(damp)
  * setAngularDamping(damp)
  * getTorque()
  * setTorque(torque)
+ * destroy()
  * teleport(pos,recurse=true)
- * copy(pos=nil,kick=nil,lifetime=0)
+ * copy(pos=nil,velocity=nil,lifetime=0)
  * split(bdy=self,recurse=0)
- * setCamera
+ * setCamera()
 
 ==Joints==
  * createJoint(parent,child,type="ball",min=0,max=0,accel=0,damp=0,breakingForce=0)
