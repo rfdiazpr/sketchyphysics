@@ -52,7 +52,6 @@
  * lookAt(target,stiff=10.0,damp=10.0)
 
 ==Utility==
- * findBody(grp)
  * playSound(name)
  * logLine(str)
  * frame()
@@ -61,7 +60,7 @@
  * position()
  * transformation()
  * simulation()
+
  * evalCurveAbs(name,dist)
  * getCurveLength(curveVerts)
  * findCurve(name)
-
