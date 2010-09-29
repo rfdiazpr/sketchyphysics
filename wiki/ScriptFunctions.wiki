@@ -60,8 +60,26 @@ onpreframe{
 }
 }}}
  * onclick
+{{{
+#Event is called when the user mouse clicks a body.
+onclick{
+   logLine("Click")
+}
+}}}
  * ondrag
+{{{
+#Event is called each frame the user holds the mouse button after clicking.
+ondrag{
+   logLine("Dragging")
+}
+}}} 
  * onunclick
+{{{
+#Event is called when the user releases the mouse button after clicking.
+ondrag{
+   logLine("Unclick")
+}
+}}}
 
 
 =Script functions=
