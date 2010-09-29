@@ -44,6 +44,13 @@
  * split(bdy=self,recurse=0)
  * setCamera
 
+==Joints==
+ * createJoint(parent,child,type="ball",min=0,max=0,accel=0,damp=0,breakingForce=0)
+ * disconnect()
+ * attach(child,breakingForce=0)
+ * connect(child,type="ball",min=0,max=0,accel=0,damp=0,breakingForce=0)
+ * lookAt(target,stiff=10.0,damp=10.0)
+
 ==Utility==
  * findBody(grp)
  * playSound(name)
@@ -54,16 +61,7 @@
  * position()
  * transformation()
  * simulation()
-
-===Curves===
  * evalCurveAbs(name,dist)
  * getCurveLength(curveVerts)
  * findCurve(name)
 
-
-==Joints==
- * createJoint(parent,child,type="ball",min=0,max=0,accel=0,damp=0,breakingForce=0)
- * disconnect()
- * attach(child,breakingForce=0)
- * connect(child,type="ball",min=0,max=0,accel=0,damp=0,breakingForce=0)
- * lookAt(target,stiff=10.0,damp=10.0)
