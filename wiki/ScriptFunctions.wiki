@@ -1,4 +1,4 @@
-#summary Generated list of all scripting functions.
+#summary Scripted field reference
 =Events=
 Events are defined in the Scripted field in the UI.
 
