@@ -1,5 +1,7 @@
 #summary Generated list of all scripting functions.
 =Events=
+Events are defined in the Scripted field in the UI.
+
  * ontouch
 {{{
 #Event is triggered when body is touched by another.
