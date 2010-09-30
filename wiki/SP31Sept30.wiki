@@ -1,10 +1,9 @@
-=SP3.1 Sept 30 update=
+=SP3.1 Sept 30=
 
 *[http://sketchyphysics.googlecode.com/files/SetupSketchyPhysics3.1-Sep30.exe Download latest version SketchyPhysics3.1 September 30 2010. ]*
 
 *Be sure to exit Sketchup before running the installer*
-
-= Oct 30 version changes =
+= Sept 30 version changes =
 
  * Fixed bugsplat with break feature under SU8
  * You can now delete embedded sounds.
