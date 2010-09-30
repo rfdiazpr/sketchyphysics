@@ -88,7 +88,7 @@ ondrag{
 Varibles are used to communicate between fields and bodies. Setting a variable in the scripted field and reading it in a controller field for example.
  * setVar(name,value)
  * getVar(name)
- * getSetVar(name,value=0)
+ * getSetVar(name,value=0)#shortcut function that allows you to get the current value and set it at the same time. 
 
 ==Inputs==
 Inputs return a value depending on the state of the key/joystick etc. For example key("space") returns 1.0 if the space key is down 0.0 if it is not.
