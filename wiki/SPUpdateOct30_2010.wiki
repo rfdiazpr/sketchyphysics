@@ -1,7 +1,9 @@
 #summary Oct 30 update info
 
-
+===Download latest version===
 [http://sketchyphysics.googlecode.com/files/SetupSketchyPhysics3.1-Sep27.exe Latest version SketchyPhysics3.1 Oct 30 2010. ]
+
+*Be sure to exit Sketchup before running the installer*
 
 = Oct 30 version changes =
 
