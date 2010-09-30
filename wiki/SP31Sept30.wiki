@@ -2,7 +2,7 @@
 
 *[http://code.google.com/p/sketchyphysics/downloads/list Download latest version SketchyPhysics3.1 September 30 2010. ]*
 
-*Be sure to exit Sketchup before running the installer*
+*Be sure to exit Sketchup before installing!*
 = Sept 30 version changes =
 
  * Mac support
