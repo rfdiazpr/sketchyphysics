@@ -85,11 +85,13 @@ ondrag{
 =Script functions=
 
 ==Simulation variables==
+Varibles are used to communicate between fields and bodies. Setting a variable in the scripted field and reading it in a controller field for example.
  * setVar(name,value)
  * getVar(name)
  * getSetVar(name,value=0)
 
 ==Inputs==
+Inputs return a value depending on the state of the key/joystick etc. For example key("space") returns 1.0 if the space key is down 0.0 if it is not.
  * key(name)
  * joy(name)
  * joybutton(name)
@@ -97,6 +99,7 @@ ondrag{
 
 
 ==Physics body==
+These functions change the physics body as described.
  * magnetic=true/false
  * nocollision=true/false
  * solid=true/false
