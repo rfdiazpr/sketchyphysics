@@ -1,6 +1,7 @@
-#summary Sep 30 update info
+=SP3.1 Sept 30 update=
 
 *[http://sketchyphysics.googlecode.com/files/SetupSketchyPhysics3.1-Sep30.exe Download latest version SketchyPhysics3.1 September 30 2010. ]*
+
 *Be sure to exit Sketchup before running the installer*
 
 = Oct 30 version changes =
