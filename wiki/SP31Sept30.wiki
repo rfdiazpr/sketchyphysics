@@ -5,7 +5,7 @@
 *Be sure to exit Sketchup before running the installer*
 = Sept 30 version changes =
 
+ * Mac support
  * Fixed bugsplat with break feature under SU8
  * You can now delete embedded sounds.
  * Added controllerValue field to runtime created joints.
-
