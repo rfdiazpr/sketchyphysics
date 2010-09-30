@@ -8,4 +8,4 @@
  * Mac support
  * Fixed bugsplat with split command under SU8
  * You can now delete embedded sounds.
- * Added controllerValue field to runtime created joints.
+ * Added controllerValue= field to runtime created joints.
