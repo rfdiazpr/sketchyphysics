@@ -1,0 +1,12 @@
+#summary Sep 30 update info
+
+===Download latest version here:===
+[http://sketchyphysics.googlecode.com/files/SetupSketchyPhysics3.1-Sep30.exe SketchyPhysics3.1 September 30 2010. ]
+
+*Be sure to exit Sketchup before running the installer*
+
+= Oct 30 version changes =
+
+ * Fixed bugsplat with break feature under SU8
+ * You can now delete embedded sounds.
+ * Added controllerValue field to runtime created joints.
