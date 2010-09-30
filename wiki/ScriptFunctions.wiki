@@ -124,7 +124,7 @@ These functions change the physics body as described.
  * lookAt(target,stiff=10.0,damp=10.0)
 
 ==Utility==
- * playSound(name)#play an embedded sound. See sound UI.
+ * playSound(name)#play an embedded sound. See SoundUI.
  * logLine(str)#put a message on the screen.
  * frame()#get current frame
  * group()#get current Sketchup group
