@@ -119,19 +119,19 @@ These functions change the physics body as described.
 ==Joints==
  * createJoint(parent,child,type="ball",min=0,max=0,accel=0,damp=0,breakingForce=0)
  * disconnect()
- * attach(child,breakingForce=0)
- * connect(child,type="ball",min=0,max=0,accel=0,damp=0,breakingForce=0)
+ * attach(child,breakingForce=0)#shortcut that creates a fixed joint connection to child
+ * connect(child,type="ball",min=0,max=0,accel=0,damp=0,breakingForce=0)#shortcut for createJoint that uses the current body as the parent.
  * lookAt(target,stiff=10.0,damp=10.0)
 
 ==Utility==
- * playSound(name)
- * logLine(str)
- * frame()
- * group()
- * camera()
- * position()
- * transformation()
- * simulation()
+ * playSound(name)#play an embedded sound. See sound UI.
+ * logLine(str)#put a message on the screen.
+ * frame()#get current frame
+ * group()#get current Sketchup group
+ * camera()#get the Sketchup camera
+ * position()#get the current position of the body
+ * transformation()#get the current transformation of the body.
+ * simulation()#get the simulation object(seldom used)
 
  * evalCurveAbs(name,dist)
  * getCurveLength(curveVerts)
