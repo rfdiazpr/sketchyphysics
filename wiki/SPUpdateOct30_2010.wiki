@@ -1,13 +1,7 @@
-#summary One-sentence summary of this page.
+#summary Oct 30 update info
 
-= Introduction =
+= Oct 30 version changes =
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+ * Fixed bugsplat with break feature under SU8
+ * You can now delete embedded sounds.
+ * Added controllerValue field to runtime created joints.
