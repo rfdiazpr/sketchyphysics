@@ -1,5 +1,8 @@
 #summary Oct 30 update info
 
+
+[http://sketchyphysics.googlecode.com/files/SetupSketchyPhysics3.1-Sep27.exe Latest version SketchyPhysics3.1 Oct 30 2010. ]
+
 = Oct 30 version changes =
 
  * Fixed bugsplat with break feature under SU8
