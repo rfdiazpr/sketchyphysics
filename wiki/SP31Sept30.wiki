@@ -9,5 +9,3 @@
  * You can now delete embedded sounds.
  * Added controllerValue field to runtime created joints.
 
-
-<wiki:toc max_depth="1" />
