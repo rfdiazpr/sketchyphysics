@@ -105,11 +105,28 @@ These functions change the physics body as described.
  * solid=true/false
  * push(direction)
  * getVelocity()
- * setVelocity(velocity)
+ * setVelocity(velocity).
+{{{
+# setVelocity takes a vector that is the direction the object will 
+#be moving and the length of the vector is how fast. It is different 
+#from push because it actually sets the objects velocity rather than 
+#just try to push it.
+onstart{
+   setVector([0,0,10]) #set object to moving straight up at speed 10
+}
+}}}
+
  * setLinearDamping(damp)
  * setAngularDamping(damp)
  * getTorque()
- * setTorque(torque)
+ * setTorque(torque).  
+{{{
+#setTorque does the same thing as setVelocity but with the objects
+#rotation 
+onstart{
+   setTorque([0,0,10])#spin object around blue axis
+}
+}}}
  * destroy()
  * teleport(pos,recurse=true)
  * copy(pos=nil,velocity=nil,lifetime=0)
