@@ -1,5 +1,6 @@
 =SP3.2 Dec 2=
 
+Download the latest version here:
 =*Be sure to exit Sketchup before installing!*=
 
 
