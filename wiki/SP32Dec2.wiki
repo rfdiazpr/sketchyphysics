@@ -25,5 +25,5 @@ Download the latest version here:
  * Removed debug spam when using control panel.
 
 
-= Oct 7 changes =
-SP31Oct7
+= Previous changes =
+http://code.google.com/p/sketchyphysics/w/list
