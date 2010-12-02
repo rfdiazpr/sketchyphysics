@@ -3,8 +3,8 @@
 *[http://code.google.com/p/sketchyphysics/downloads/list Download latest version SketchyPhysics3.2 December 2 2010. ]*
 
 *Be sure to exit Sketchup before installing!*
-= Dec 2 version changes =
-
+= Dec 2 =
+== Changes ==
  * Updated version to 3.2
  * Added midi note support.
  * Wacov's hud code. script commands draw,draw2d,draw3d and view accessor.
