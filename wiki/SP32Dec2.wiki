@@ -1,7 +1,7 @@
 =SP3.2 Dec 2=
 
 *Be sure to exit Sketchup before installing!*
-*Be sure to exit Sketchup before installing!*
+
 
 *[http://code.google.com/p/sketchyphysics/downloads/list Download latest version SketchyPhysics3.2 December 2 2010. ]*
 
