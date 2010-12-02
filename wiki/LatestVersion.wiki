@@ -1,3 +1,4 @@
+#labels Deprecated
 Here you can find the latest version of Sketchy Physics.
 
 [http://code.google.com/p/sketchyphysics/ Home page]
