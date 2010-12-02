@@ -1,4 +1,5 @@
 #summary SketchyPhysics examples
+#labels Deprecated
 
 =SketchyPhysics examples=
 All of the basic examples in a single zip.
